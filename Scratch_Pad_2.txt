@@ -1,0 +1,12 @@
+Scratch_Pad_ULV
+
+#This Scratchpad is used for collecting information about ULV and necessary components
+
+#Main board for ULV
+Pixhawk - 
+#Power Module Parts
+#Current sensing device
+ACS780LLRTR-100U-T - https://www.digikey.com/product-detail/en/allegro-microsystems-llc/ACS780LLRTR-100U-T/620-1820-2-ND/6189093
+#High Efficiency Fixed Output Regulator
+TPS5405 - https://www.digikey.com/product-detail/en/texas-instruments/TPS5405DR/296-30579-1-ND/3478039
+#Output voltage divider - common collector PNP configuration

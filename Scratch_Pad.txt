@@ -1,0 +1,65 @@
+#Raspbian NAS Tutorial
+    https://eltechs.com/raspberry-pi-nas-guide/ #should work
+    https://www.raspberrypi.org/forums/viewtopic.php?t=205379 #not ideal
+    https://howtoraspberrypi.com/create-a-nas-with-your-raspberry-pi-and-samba/ #very weak tutorial
+
+#Raspbian External drive Tutorials
+    https://devtidbits.com/2013/03/21/using-usb-external-hard-disk-flash-drives-with-to-your-raspberry-pi/
+    
+#Drone from Scratch Tutorial
+    https://www.instructables.com/id/Step-by-step-Guidance-to-Build-a-Drone-From-Scratc/?utm_source=newsletter&utm_medium=email #Need to review it
+    
+#TKinter for Python Tutorials
+    https://www.youtube.com/watch?v=RJB1Ek2Ko_Y #youtube channel for Tkinter
+    https://www.python-course.eu/tkinter_labels.php #TKinter GUI Tutorials for Python
+    
+#Li-Ion battery tester
+    https://www.instructables.com/id/Li-ion-Capacity-Tester-/?utm_source=newsletter&utm_medium=email #review this when have time, instructions are a little fuzzy
+    
+#Raspbian Video Resolution
+    https://elinux.org/RPiconfig#Video
+    
+#VNC Server Resolution setup
+    https://stackoverflow.com/questions/15816/changing-the-resolution-of-a-vnc-session-in-linux
+    https://www.thegeekdiary.com/how-to-change-the-vnc-server-resolution-in-linux/
+    
+#Raspberry Pi backup
+    https://eltechs.com/raspberry-pi-backup/ #Maybe a little too much advertisement
+    https://www.raspberrypi.org/documentation/linux/filesystem/backup.md #Clearcut and self - explanatory
+    
+#Cron Tutorial
+    https://www.raspberrypi.org/documentation/linux/usage/cron.md
+
+#Drone Ardupilot support
+
+    http://ardupilot.org/copter/docs/common-pixhawk-overview.html
+
+#3D Printer Construction and parts
+    https://reprap.org/wiki/RepRapPro_Mendel_heatbed_assembly
+    https://reprapworld.at/listing/e3d/
+    http://www.reprap.cn/k200-single-head-delta-3d-printer-kit-support-multi-material-p-191.html?cPath=4
+    https://www.thingiverse.com/thing:50730
+
+#Online narucivanje slatkisa
+    https://www.worldofsweets.de/Marke+Spencer-Fleetwood/Succulent-Willie-Lollipop-Erdbeer.304803.html
+
+#Recept za Marlenku
+    https://www.bastabalkana.com/2015/05/marlenka-torta-od-meda-recept-za-marlenku/
+
+#Pomorska robotika
+    https://www.bluerobotics.com/product-category/books/
+
+#Censored Books
+These 5 Censored Books Tell a History the Establishment Wants Hidden - youtube
+https://www.youtube.com/watch?v=RcHRaxN-u5U
+
+#Pathology of Rich
+https://www.youtube.com/watch?v=L6unS2JF8TA
+
+#Days of Revolution
+https://www.youtube.com/watch?v=m4ylSG54i-A
+
+#Lords of creation
+https://www.ebooks.com/searchapp/searchresults.net?term=The+Lords+of+Creation
+
+#
